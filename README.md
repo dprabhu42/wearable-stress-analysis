@@ -22,9 +22,9 @@ A major focus of this project was understanding the difference between statistic
 R, ggplot2, dplyr, nnet
 
 # Files Included 
-Wearable_Stress_Analysis.pdf — full report and interpretation 
-nurse_stress_monitoring.r — reproducible analysis workflow
-merged_data.csv (found on link attached above) 
++ Wearable_Stress_Analysis.pdf — full report and interpretation 
++ nurse_stress_monitoring.r — reproducible analysis workflow
++ merged_data.csv (found on link attached above) 
 
 # Author 
 Deeya Prabhu Data Science @ Purdue 
